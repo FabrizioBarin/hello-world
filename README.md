@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Koe menor
+
+Sou foda pra krl e eh isso ai tlgd?
